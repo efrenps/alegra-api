@@ -1,3 +1,5 @@
 node_modules
 .env
+
+# Used for automatically generate models for SequelizeJS via the command line
 sequelize-auto.sh
